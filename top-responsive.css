@@ -1,0 +1,88 @@
+@media(max-width:1000px){
+  .main{
+    height:500px;
+  }
+  .black{
+    height:500px;
+  }
+  /*　ヘッダー　*/
+  .sisimori img{
+    width:50%;
+  }
+  .menu{
+    padding:0px 0 15px 0;
+    margin-top:5px;
+  }
+  .menu a{
+    font-size: 17px;
+    margin:0 15px;
+  }
+}
+@media(max-width:670px){
+  .main{
+    height:300px;
+  }
+  .black{
+    height:300px;
+  }
+  /*　ヘッダー　*/
+  .sisimori img{
+    width:40%;
+  }
+  .menu{
+    padding:0px 0 8px 0;
+    margin-top:-5px;
+  }
+  .menu a{
+    font-size: 8px;
+    margin:0 5px;
+  }
+  /*　アイコンクリック画像　*/
+  .icon-container{
+    text-align: center;
+    margin:20px 0;
+  }
+  .icon-container img{
+    width:40%;
+    border-radius: 20px;
+    margin:5px;
+  }
+  .title{
+    text-align: center;
+    font-size: 30px;
+    margin:0px 0 20px 0;
+  }
+  .topics{
+    margin-bottom:25px;
+  }
+  .topic-block{
+    background-color:#cbcbcb;
+    border-radius: 20px;
+    margin:auto;
+    width:90%;
+    padding:10px 0;
+    margin-bottom:15px;
+  }
+  .topic-top{
+    border-bottom:2px solid white;
+    width:80%;
+    padding-left:10px;
+    padding-bottom:5px;
+    margin-left:30px;
+  }
+  .topic-top p{
+    margin:0px;
+  }
+  .top-day{
+    font-size:10px;
+    float:left;
+    padding:10px 50px 0px 5px;
+  }
+  .top-title{
+    font-size:18px;
+  }
+  .topic-text{
+    padding-left:40px;
+    font-size:10px;
+  }
+}
