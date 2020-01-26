@@ -17,6 +17,14 @@
     font-size: 17px;
     margin:0 15px;
   }
+  .top-day{
+    font-size:15px;
+    padding:17px 50px 0px 0px;
+  }
+  .top-title{
+    font-size:22px;
+    padding:0px 0 4px 0px;
+  }
 }
 @media(max-width:670px){
   .main{
@@ -74,12 +82,12 @@
     margin:0px;
   }
   .top-day{
-    font-size:10px;
-    float:left;
-    padding:10px 50px 0px 5px;
+    font-size:1px;
+    padding:10px 10px 0px 0px;
   }
   .top-title{
-    font-size:18px;
+    font-size:15px;
+    padding:4px 0;
   }
   .topic-text{
     padding-left:40px;
