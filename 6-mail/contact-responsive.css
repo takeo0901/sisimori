@@ -46,16 +46,13 @@
     position:initial;
   }
 
-  .Access-img{
-    float:none;
-    width:80%;
+  p{
+    font-size:20px ;
+    font-weight: bold;
   }
-  .Access-text{
-    font-size:15px;
-    position:initial;
-    top: initial;
-    left:initial;
-    -webkit-transform :initial;
-    transform :initial;
+
+  a{
+    font-size:20px ;
+    font-weight: bold;
   }
 }
