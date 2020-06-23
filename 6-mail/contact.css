@@ -38,20 +38,17 @@ body{
   position: relative;
   text-align: center;
 }
-.clear{
-  clear:left;
+
+p{
+  font-size:30px ;
+  font-weight: bold;
 }
-.Access-img{
-  float:left;
+
+a{
+  font-size:30px ;
+  font-weight: bold;
 }
-.Access-text{
-  font-size:27px;
-  position: absolute;
-  top: 50%;
-  left:50%;
-  -webkit-transform : translateY(-50%);
-  transform : translateY(-50%);
-}
+
 /*フッダー*/
 .footer{
   background-color:#242424;
