@@ -10,6 +10,7 @@ body{
   background-color:rgba(0,0,0,0.3);
   height:1000px;
 }
+
 /*　ヘッダー　*/
 .header{
   background-color:#242424;
@@ -83,6 +84,13 @@ body{
 }
 .topic-text{
   padding-left:50px;
+}
+
+/* 関連リンク */
+.rink a{
+ font-size:10px;
+ font-weight:bold;
+ text-align:center;
 }
 
 /*フッダー*/
