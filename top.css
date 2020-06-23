@@ -87,10 +87,12 @@ body{
 }
 
 /* 関連リンク */
-.rink a{
- font-size:10px;
+.link{
+  text-align: center;
+}
+.link a{
+ font-size:30px;
  font-weight:bold;
- text-align:center;
 }
 
 /*フッダー*/
