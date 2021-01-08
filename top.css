@@ -10,7 +10,6 @@ body{
   background-color:rgba(0,0,0,0.3);
   height:1000px;
 }
-
 /*　ヘッダー　*/
 .header{
   background-color:#242424;
@@ -26,9 +25,8 @@ body{
 }
 .menu a{
   color:white;
-  font-size: 20px;
-  margin:0 40px;
-  font-weight: bold;
+  font-size: 18px;
+  margin:0 20px;
 
 }
 
