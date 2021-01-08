@@ -6,6 +6,7 @@ body{
   display:flex;
 }
 .header a{
+  font-weight: bold;
   color:white;
   display:auto;
   padding:50px 0;
